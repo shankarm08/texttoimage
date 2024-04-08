@@ -3,7 +3,7 @@ import openai
 from IPython.display import Image
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Function to generate image based on text prompt
 def generate_image(prompt, size="512x512"):
